@@ -1,1 +1,1 @@
-api_data = 'AIzaSyBgE7Jam31bonmgCU4oWmnrFXJdRXLznzs' 
+api_data = 'API_KEY' 
